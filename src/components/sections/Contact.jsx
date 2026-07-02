@@ -78,7 +78,7 @@ export default function Contact() {
 
                 <h3>Email</h3>
 
-                <p>yourmail@gmail.com</p>
+                <p>manjeshy484@gmail.com</p>
 
               </div>
 
@@ -92,7 +92,7 @@ export default function Contact() {
 
                 <h3>Phone</h3>
 
-                <p>+91 XXXXX XXXXX</p>
+                <p>+91 97611 69282</p>
 
               </div>
 
@@ -114,11 +114,11 @@ export default function Contact() {
 
             <div className="contact-social">
 
-              <a href="https://github.com/yourusername">
+              <a href="https://github.com/manjesh-dev">
                 <FaGithub/>
               </a>
 
-              <a href="https://linkedin.com/in/yourusername">
+              <a href="https://linkedin.com/in/manjesh-yadav-1074b3322/">
                 <FaLinkedin/>
               </a>
 
