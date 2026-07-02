@@ -23,12 +23,12 @@ export default function Hero() {
           </h1>
 
           <h2>
-            Java Developer • MERN Stack Developer • ML Enthusiast
+             MERN Stack Developer • AI Enthusiast
           </h2>
 
           <p className="hero-description">
             B.Tech Computer Science student passionate about
-            Full Stack Development, Java and Machine Learning.
+            Full Stack Development, Java + DSA and AI.
             I enjoy building scalable web applications and
             solving real-world problems.
           </p>
@@ -53,25 +53,23 @@ export default function Hero() {
           </div>
 
           <div className="hero-social">
-
             <a
-              href="https://github.com/yourgithub"
+              href="https://github.com/Manjesh-dev"
               target="_blank"
             >
               <FaGithub />
             </a>
 
             <a
-              href="https://linkedin.com/in/yourlinkedin"
+              href="https://www.linkedin.com/in/manjesh-yadav-1074b3322/"
               target="_blank"
             >
               <FaLinkedin />
             </a>
 
-            <a href="mailto:yourmail@gmail.com">
+            <a href="mailto:manjeshy484@gmail.com">
               <FaEnvelope />
             </a>
-
           </div>
 
         </div>
@@ -81,7 +79,7 @@ export default function Hero() {
         <div className="hero-image">
 
           <img
-            src="/images/profile.png"
+            src="/images/profile.jpeg"
             alt="Profile"
           />
 

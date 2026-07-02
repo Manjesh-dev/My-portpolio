@@ -13,27 +13,27 @@ export default function Footer() {
         <h2>Manjesh Yadav</h2>
 
         <p>
-          Java Developer | MERN Stack Developer |
-          Machine Learning Enthusiast
+          Java + DSA | MERN Stack Developer |
+          AI Enthusiast
         </p>
 
         <div className="social-links">
 
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/manjesh-dev"
             target="_blank"
           >
             <FaGithub />
           </a>
 
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/manjesh-yadav-1074b3322/"
             target="_blank"
           >
             <FaLinkedin />
           </a>
 
-          <a href="mailto:youremail@gmail.com">
+          <a href="mailto:manjeshy484@gmail.com">
             <FaEnvelope />
           </a>
 

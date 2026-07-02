@@ -21,7 +21,7 @@ export default function About() {
             <p>
               I'm Manjesh Yadav, a B.Tech Computer Science
               student with a strong interest in Java,
-              MERN Stack Development and Machine Learning.
+              MERN Stack Development and AI.
             </p>
 
             <p>
@@ -51,11 +51,11 @@ export default function About() {
               </li>
 
               <li>
-                <strong>Location:</strong> Uttar Pradesh, India
+                <strong>Location:</strong> Bareilly, Uttar Pradesh, India
               </li>
 
               <li>
-                <strong>Email:</strong> yourmail@gmail.com
+                <strong>Email:</strong> manjeshy484@gmail.com
               </li>
 
               <li>

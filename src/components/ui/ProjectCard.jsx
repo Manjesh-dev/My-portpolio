@@ -11,15 +11,10 @@ export default function ProjectCard({
   return (
     <div className="project-card">
 
-      <img
-        src={image}
-        alt={title}
-        className="project-image"
-      />
 
       <div className="project-content">
 
-        <h3>{title}</h3>
+        <b><h3>{title}</h3></b>
 
         <p>{description}</p>
 

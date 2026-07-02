@@ -1,59 +1,38 @@
 const projects = [
   {
     id: 1,
-    title: "Smart City Analytics System",
-    image: "/images/project1.png",
+
+    title: "Airbnb Clone",
+
 
     description:
-      "Machine Learning based web application for traffic prediction, crime prediction, citizen segmentation and house price prediction.",
-
+      "A full-stack Airbnb-inspired web application built using the MERN stack. The project enables users to securely register and log in, create and manage property listings, upload property images, and interact through comments. It follows the MVC architecture and implements secure authentication and authorization using Sessions and Cookies.",
     tech: [
-      "Python",
-      "Flask",
-      "Pandas",
-      "Scikit-Learn",
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
+      "EJS",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JWT",
+      "Cloudinary",
+      "Multer"
     ],
 
-    github: "https://github.com/yourusername/smart-city",
+    github: "https://github.com/manjesh-dev/airbnb-clone",
 
-    live: "#"
+    live: "https://airbnb-clone-9haa.onrender.com"
   },
 
   {
     id: 2,
 
-    title: "Airbnb Clone",
-
-    image: "/images/project2.png",
-
-    description:
-      "Full Stack MERN application with authentication, authorization and property booking system.",
-
-    tech: [
-      "React",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "JWT"
-    ],
-
-    github: "https://github.com/yourusername/airbnb-clone",
-
-    live: "#"
-  },
-
-  {
-    id: 3,
-
     title: "Portfolio Website",
 
-    image: "/images/project3.png",
 
     description:
-      "Responsive personal portfolio developed using Next.js and Tailwind CSS.",
+      "A personal portfolio web application designed to showcase my projects, technical skills, and professional journey. The website features a clean, responsive interface with dedicated sections for projects, technologies, education, and contact information, making it easy for recruiters and hiring managers to explore my work.",
 
     tech: [
       "Next.js",
@@ -61,10 +40,33 @@ const projects = [
       "Tailwind CSS"
     ],
 
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/manjesh-dev/portfolio",
 
     live: "#"
-  }
+  },
+  {
+    id: 3,
+
+    title: "Auth-system",
+
+
+    description:
+      "A secure MERN stack authentication application designed to provide complete user account management with modern security practices. The project includes user registration, login, email verification, password recovery, and protected API routes.",
+
+    tech: [
+      "React.js",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JWT",
+      "Bcrypt",
+      "Nodemailer"
+    ],
+
+    github: "https://github.com/manjesh-dev/Auth-system",
+
+    live: "#"
+  },
 
 ];
 

@@ -5,7 +5,6 @@ const skills = [
       "Java",
       "JavaScript",
       "Python",
-      "C"
     ]
   },
 
@@ -53,7 +52,8 @@ const skills = [
       "Git",
       "GitHub",
       "VS Code",
-      "Postman"
+      "Postman",
+      "Jupyter Lab"
     ]
   }
 ];
